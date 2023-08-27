@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkUUID" value="db7e1ed1-6fd6-4951-ba0d-6c134a26b2d1" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Pipenv (ice_breaker)" project-jdk-type="Python SDK" />
   <component name="PyCharmDSProjectLayout">
     <option name="id" value="JupyterRightHiddenStructureLayout" />

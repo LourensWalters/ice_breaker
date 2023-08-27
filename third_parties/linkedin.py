@@ -9,7 +9,6 @@ dotenv_path = find_dotenv()
 load_dotenv(dotenv_path)
 PROXYCURL_API_KEY = os.environ.get("PROXYCURL_API_KEY")
 
-
 def scrape_linkedin_profile(linkedin_profile_url: str):
     """
     Scrape information from LinkedIn profiles,
